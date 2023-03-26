@@ -17,5 +17,5 @@ background: linear-gradient(0deg, rgba(255,255,255,1) 50%, rgba(98,120,247,1) 50
     background-color: #f6f6f6;
     border-radius: 15px;
     box-shadow: 10px 10px 15px rgba(0, 0 , 0, 0.15);
-    padding: 1.5rem 0;
+    padding: 1.5rem 0 3rem;
 }
