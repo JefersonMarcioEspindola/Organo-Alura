@@ -1,0 +1,21 @@
+.form {
+    padding: 1rem 0 3rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(255,255,255);
+background: linear-gradient(0deg, rgba(255,255,255,1) 50%, rgba(98,120,247,1) 50%);
+}
+
+.form form {
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #f6f6f6;
+    border-radius: 15px;
+    box-shadow: 10px 10px 15px rgba(0, 0 , 0, 0.15);
+    padding: 1.5rem 0;
+}
