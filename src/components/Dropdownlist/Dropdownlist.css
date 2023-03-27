@@ -1,0 +1,27 @@
+.Dropdownlist {
+    width: 80%;
+}
+
+.Dropdownlist {
+    width: 80%;
+    margin: 12px 0;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+}
+
+.Dropdownlist label{
+    margin-bottom: 8px;
+    font-size: 18px;
+}
+
+.Dropdownlist select{
+    color: #757575;
+    background-color: #fff;
+    box-shadow: 10px 10px 15px rgba(0, 0 , 0, 0.15);
+    width: 100%;
+    border: none;
+    font-size: 18px;
+    padding: 18px;
+    box-sizing: border-box;
+}
