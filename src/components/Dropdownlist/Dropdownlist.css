@@ -16,6 +16,7 @@
 }
 
 .Dropdownlist select{
+    border-radius: 5px;
     color: #757575;
     background-color: #fff;
     box-shadow: 10px 10px 15px rgba(0, 0 , 0, 0.15);
