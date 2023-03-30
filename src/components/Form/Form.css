@@ -19,3 +19,9 @@ background: linear-gradient(0deg, rgba(255,255,255,1) 50%, rgba(98,120,247,1) 50
     box-shadow: 10px 10px 15px rgba(0, 0 , 0, 0.15);
     padding: 1.5rem 0 3rem;
 }
+
+.form h2{
+    font-family: 'Prata', serif;
+    font-size: 32px;
+    font-weight: 400;
+}

@@ -1,0 +1,19 @@
+.box {
+    width: 80%;
+    margin-top: 15px;
+}
+
+.button {
+    background-color: #6278f7;
+    border: none;
+    padding: 18px;
+    font-size: 18px;
+    color: white;
+    border-radius: 10px;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.button:hover {
+    color: #95FFD4;
+}
