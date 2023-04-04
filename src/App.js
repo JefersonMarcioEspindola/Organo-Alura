@@ -1,6 +1,7 @@
 import { useState } from 'react';
 import Banner from './components/Banner'
 import Form from './components/Form';
+import Team from './components/Team';
 
 function App() {
 
@@ -15,6 +16,9 @@ function App() {
     <div className="App">
       <Banner/>
       <Form registeredContributor={contributor => newContributorAdded(contributor)}/>
+      <Team nome="Programação"/>
+      <Team nome="Front-End"/>
+      <Team nome="Data Sciece"/>
     </div>
   );
 }
