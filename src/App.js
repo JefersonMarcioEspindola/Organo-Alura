@@ -4,7 +4,6 @@ import Form from './components/Form';
 import Team from './components/Team';
 
 function App() {
-
   const [contributor, setContributor] = useState([])
 
   const newContributorAdded = ( contributor ) => {
