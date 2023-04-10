@@ -22,7 +22,7 @@ const Form = (props) => {
 
     const toSave = (evento) => {
         evento.preventDefault()
-        props.registeredContributor({
+        props.CollaboratoRegistered({
             nome,
             cargo,
             imagem,
